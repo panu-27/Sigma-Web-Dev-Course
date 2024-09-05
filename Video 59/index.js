@@ -20,4 +20,6 @@ if (a<0.1){
 }
 else{
     normal calcultor 
-}*/
+}
+
+*/
