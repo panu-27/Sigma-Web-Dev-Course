@@ -1,0 +1,5 @@
+/*
+Factorial Problem Solved
+
+write a program to calcualte factorila of number using for loops and reduce 
+*/
